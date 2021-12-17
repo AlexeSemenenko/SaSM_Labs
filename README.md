@@ -1,1 +1,1 @@
-# SaSM_Labs
+SaSM = Simulation and statistical modeling
